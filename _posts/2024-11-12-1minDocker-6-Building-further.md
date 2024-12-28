@@ -7,6 +7,8 @@ In [the last article](https://dev.to/astrabert/1mindocker-5-build-and-push-a-doc
 
 We will now try to understand how to take our building capacity to the next level, adding more complexity and more layers to our images.
 
+<!-- more -->
+
 ### Case study
 
 Imagine that we want to build an image to run our data analysis pipelines written in python and R.

@@ -5,6 +5,8 @@ category: Beginners
 
 In [the last article](https://dev.to/astrabert/1mindocker-3-fundamental-concepts-55ph) we explored the fundamental concepts of Docker: with this theory background, we can now start getting our hands dirty with some code!
 
+<!-- more -->
+
 From now on, we will use the command line interface (CLI) instead of Docker Desktop, as this is the easiest way to get to know Docker from the developer side🤗
 
 ### 0. Where do we work?

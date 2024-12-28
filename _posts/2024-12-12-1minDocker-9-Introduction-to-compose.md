@@ -8,6 +8,8 @@ In [the last article](https://dev.to/astrabert/1mindocker-8-advanced-concepts-fo
 
 From this article on, we will talk about another plugin, `docker compose`, which presents numerous fields of application and a high potential for deployment and development automation.
 
+<!-- more -->
+
 ## What is `compose`?
 
 `compose` is a technology that allow users to run one or more container in a easy and reproducible way. 

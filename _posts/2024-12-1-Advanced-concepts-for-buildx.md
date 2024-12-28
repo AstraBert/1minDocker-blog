@@ -7,6 +7,8 @@ In the [last article](https://dev.to/astrabert/1mindocker-7-superpower-your-buil
 
 In this article, we will dive deep into `buildx`'s subcommands.
 
+<!-- more -->
+
 ### `docker buildx bake`
 
 #### Starting example

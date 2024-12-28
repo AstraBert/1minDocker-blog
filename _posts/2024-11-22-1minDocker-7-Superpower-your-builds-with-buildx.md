@@ -5,6 +5,8 @@ category: Intermediate
 
 In the [last article](https://dev.to/astrabert/1mindocker-6-building-further-39al) we talked about the possibility of expanding our build capacity with multi-staged builds and if-else statements: in this article, we'll see how to superpower our builds with `buildx`, a popular Docker plugin that is intended at replacing the legacy `docker build` command. 
 
+<!-- more -->
+
 ### Getting `buildx`
 
 If you correctly installed Docker Desktop for Windows or macOS (see our [second article](https://dev.to/astrabert/1mindocker-2-get-docker-kh)), `buildx` should be already included. 

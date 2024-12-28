@@ -7,6 +7,8 @@ In the [last article](https://dev.to/astrabert/1mindocker-9-introduction-to-comp
 
 In this post we will focus on the `compose` file, i.e. the YAML file that contains the instructions that `docker compose` reads and runs when it is launched.
 
+<!-- more -->
+
 As we saw for the Dockerfile, also the compose file has keywords: these keywords are named *elements*, and the most important of them are known as *top level* elements. We will learn about them in the following paragraphs.
 
 ## `name` and `version`

@@ -5,6 +5,8 @@ category: Beginners
 
 [Docker](https://www.docker.com/) is a platform that help developers to get **faster**, more **generalized** and **packaged** deployments and distributions for their applications.
 
+<!-- more -->
+
 It can be regarded as a **DevOps** (Developement Operations) technology, as it is aimed at **easing and accelerating** shipping processes and times.
 
 Docker is **cross-platform** (available on Linux, Windows and MacOs) and OS-independent as its main feature is allowing developers to build **isolated environments** (virtual machines) in which to run other softwares without having any conflict or versioning/platform-specific problem with the local machine.

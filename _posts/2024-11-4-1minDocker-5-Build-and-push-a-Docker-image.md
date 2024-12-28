@@ -5,6 +5,8 @@ category: Intermediate
 
 In the [last article](https://dev.to/astrabert/1mindocker-4-docker-cli-essentials-33pl) we saw how we can pull an image, run it inside a container, list images and containers and remove them: now it's time to build, so we'll create our first simple Docker image.
 
+<!-- more -->
+
 ### The Dockerfile
 
 As we already said in our [conceptual introduction to Docker](https://dev.to/astrabert/1mindocker-3-fundamental-concepts-55ph), a Dockerfile is a sort of recipe: it contains all the instructions to collect the ingredients (the *image*) that will make the cake (the _container_). 
