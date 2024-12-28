@@ -3,9 +3,11 @@ title:  "1MinDocker #3 - Fundamental concepts"
 category: Beginners
 ---
 
-In [the last article](https://dev.to/astrabert/1mindocker-2-get-docker-kh) we explored how to get Docker for every platform: now, we are very eager to make it to work, but we can't actually do it without having a knowledge of the basic concepts that are behind Docker. In this article we will go through a _minimal glossary_ for Docker:
+In [the last article](https://dev.to/astrabert/1mindocker-2-get-docker-kh) we explored how to get Docker for every platform: now, we are very eager to make it to work, but we can't actually do it without having a knowledge of the basic concepts that are behind Docker. 
 
 <!-- more -->
+
+In this article we will go through a _minimal glossary_ for Docker:
 
 0. **Virtual machine** (VM): a virtual machine is an isolated environment that manages all its dependencies and required softwares on its own, without relying on the local machine. Once launched, it can be imagined as a separated container which runs independently from the main machine in which it is working. Virtual machines can be local (like the ones we will learn to build and launch with Docker) or on cloud (like Google Cloud, Azure or AWS VMs)
 1. **Image**: an image is the base on which we build a separated virtual machine, containing all the instructions and softwares to do so. Even though an image represents nothing but stacked layers of information that contain all the instruction to build the VM, it is not automatically activated: it needs to be booted and then run through the Docker engine. You can think of an image as having collected all the ingredients you need for a cake: they will make one once put together and baked, but they are still definitely not a cake.

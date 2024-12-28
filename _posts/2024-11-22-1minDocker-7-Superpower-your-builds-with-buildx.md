@@ -3,9 +3,12 @@ title:  "1MinDocker #7 - Superpower your builds with buildx"
 category: Intermediate 
 ---
 
-In the [last article](https://dev.to/astrabert/1mindocker-6-building-further-39al) we talked about the possibility of expanding our build capacity with multi-staged builds and if-else statements: in this article, we'll see how to superpower our builds with `buildx`, a popular Docker plugin that is intended at replacing the legacy `docker build` command. 
+In the [last article](https://dev.to/astrabert/1mindocker-6-building-further-39al) we talked about the possibility of expanding our build capacity with multi-staged builds and if-else statements:
 
 <!-- more -->
+
+in this article, we'll see how to superpower our builds with `buildx`, a popular Docker plugin that is intended at replacing the legacy `docker build` command. 
+
 
 ### Getting `buildx`
 

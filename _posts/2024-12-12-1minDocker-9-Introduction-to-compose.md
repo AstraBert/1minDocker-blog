@@ -6,9 +6,9 @@ category: Intermediate
 
 In [the last article](https://dev.to/astrabert/1mindocker-8-advanced-concepts-for-buildx-2olc) we finished our deep dive on `docker buildx`, a popular plugin that is aimed at easing and automating the building process.
 
-From this article on, we will talk about another plugin, `docker compose`, which presents numerous fields of application and a high potential for deployment and development automation.
-
 <!-- more -->
+
+From this article on, we will talk about another plugin, `docker compose`, which presents numerous fields of application and a high potential for deployment and development automation.
 
 ## What is `compose`?
 

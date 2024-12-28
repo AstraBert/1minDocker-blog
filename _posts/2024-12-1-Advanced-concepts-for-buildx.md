@@ -5,9 +5,11 @@ category: Intermediate
 
 In the [last article](https://dev.to/astrabert/1mindocker-7-superpower-your-builds-with-buildx-123m), we started using `buildx` to add more building capacity to our Docker core.
 
+<!-- more -->
+
 In this article, we will dive deep into `buildx`'s subcommands.
 
-<!-- more -->
+
 
 ### `docker buildx bake`
 

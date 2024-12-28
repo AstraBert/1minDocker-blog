@@ -3,9 +3,13 @@ title:  "1MinDocker #5 - Build and push a Docker image"
 category: Intermediate 
 ---
 
-In the [last article](https://dev.to/astrabert/1mindocker-4-docker-cli-essentials-33pl) we saw how we can pull an image, run it inside a container, list images and containers and remove them: now it's time to build, so we'll create our first simple Docker image.
+In the [last article](https://dev.to/astrabert/1mindocker-4-docker-cli-essentials-33pl) we saw how we can pull an image, run it inside a container, 
 
 <!-- more -->
+
+list images and containers and remove them: now it's time to build, so we'll create our first simple Docker image.
+
+
 
 ### The Dockerfile
 

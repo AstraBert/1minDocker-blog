@@ -5,9 +5,11 @@ category: Intermediate
 
 In [the last article](https://dev.to/astrabert/1mindocker-5-build-and-push-a-docker-image-1kpm) we saw how to build an image from scratch and we introduced several keywords to work with Dockerfiles. 
 
+<!-- more -->
+
 We will now try to understand how to take our building capacity to the next level, adding more complexity and more layers to our images.
 
-<!-- more -->
+
 
 ### Case study
 
