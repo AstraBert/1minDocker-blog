@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		{% if page.collectionpage %}
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+		{% elsif page.title %}
+			<title>{{ page.title }} - {{ site.title }}</title>
+		{% else %}
+			<title>{{ site.title }}</title>
+		{% endif %}
+
+		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+
+		{% if site.favicon %}
+			<link rel="shortcut icon" href="{{ site.favicon }}">
+		{% else %}
+			<link rel="shortcut icon" href="{{ site.logo }}">
+		{% endif %}
+
+	</head>
+	<body>
+
+		{{ content }}
+
+		<link href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700|Neuton:400,700" rel="stylesheet">
+	</body>
+</html>
