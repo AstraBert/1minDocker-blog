@@ -42,5 +42,6 @@ Docker handles secrets, takes care of data transfer from the local context to th
 With Docker, you can even manage all of this with **one command**: you simply need to create a `compose.yaml` file and define your services, their sources (if pre-existing images or on-the-fly builds) and their specs (secrets, volumes, networks). After that, you simply need `docker compose up`. It's really simple, isn't it?🐳
 
 ## Sources
-- [**Akamai Developer**: CI/CD Explained | How DevOps Use Pipelines for Automation](https://youtu.be/M4CXOocovZ4?feature=shared)
+
+- [**Akamai Developer**: CI/CD Explained - How DevOps Use Pipelines for Automation](https://youtu.be/M4CXOocovZ4?feature=shared)
 - [**Be a Better Dev**: The IDEAL and Practical CI/CD Pipeline - Concepts Overview](https://youtu.be/OPwU3UWCxhw?feature=shared)
