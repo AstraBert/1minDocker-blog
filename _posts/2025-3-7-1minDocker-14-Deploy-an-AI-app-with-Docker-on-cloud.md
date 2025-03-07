@@ -1,4 +1,7 @@
-# Deploy an AI app with Docker on cloud
+---
+title:  "1MinDocker #14 - Deploy an AI app on the cloud with Docker"
+category: Advanced
+---
 
 In the [last article](https://dev.to/astrabert/1mindocker-13-push-build-and-dockerize-with-github-actions-52gb) we dove into the world of continuous integration with GitHub Actions. Now it's time to take a step forward and to talk about deploying a Docker application and make it available to everyone. To do this, we could exploit a local server, but local servers are usually costly to set up, initialize and maintain (on the long run): cloud solutions are, on the other hand, simpler and faster to boot and set up, especially the one we are going to use for this tutorial, [**Linode**](https://www.linode.com/)
 
